@@ -14,26 +14,13 @@ About
 
 XG Proyect (XGP) is a web browser game based on the famous OGame. Our goal is to offer a package that is as similar as possible to the original.
 
-Official Website: https://www.xgproyect.org/  
-Live Server: https://www.xgproyect.net/  
-
-## Requirements
-
-PHP 7.3 or greater  
-MySQLi 5.5 or greater  
-
 ## How to get XG Proyect?
 
 ### Manually
-Download and install XG Proyect is easy. Go to the releases section and get the latest stable release.  
-Then unzip the upload dir in your localhost, rename that folder to wathever you want.  
-Point you browser to your localhost and follow the step by step instructions provided by the installation software.
-
-### Composer
-
-```
-composer create-project xgproyect/xgproyect xgp v3.2.0
-```
+- Download and install XG Proyect language packs is easy. Go to the green button that says "Code" and "Download ZIP".  
+- Put the language folder right inside you XGP Languages folder.  
+- Insert into your DB table languages the folder name. With first letter uppercase. Example: English, Español, Türk, etc.-  
+- Go to your XGP Admin CP > Server settings > choose your just added language.-  
 
 ## Who is using XG Proyect?
 
