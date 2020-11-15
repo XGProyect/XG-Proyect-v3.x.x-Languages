@@ -22,6 +22,8 @@ XG Proyect (XGP) is a web browser game based on the famous OGame. Our goal is to
 - Insert into your DB table languages the folder name. With first letter uppercase. Example: English, Español, Türk, etc.-  
 - Go to your XGP Admin CP > Server settings > choose your just added language.-  
 
+<strong>Important:</strong> <strong>official</strong> XGP languages are <strong>English and Spanish</strong>, any other language is not official and might be outdated. Depends on the language creator.  
+
 ## Who is using XG Proyect?
 
 We are happy to deliver this software giving others the possibility to have a good OGame Clon.  
