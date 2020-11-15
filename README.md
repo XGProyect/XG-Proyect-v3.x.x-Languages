@@ -14,7 +14,7 @@ About
 
 XG Proyect (XGP) is a web browser game based on the famous OGame. Our goal is to offer a package that is as similar as possible to the original.
 
-## How to get XG Proyect?
+## How to install a new XG Proyect language?
 
 ### Manually
 - Download and install XG Proyect language packs is easy. Go to the green button that says "Code" and "Download ZIP".  
