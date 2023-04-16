@@ -1,4 +1,5 @@
 <?php
+
 $lang = [
     // sections
     'general' => 'General',
@@ -10,6 +11,7 @@ $lang = [
 
     // pages
     'server' => 'Server settings',
+    'mailing' => 'Mail settings',
     'modules' => 'Server features',
     'planets' => 'New planets settings',
     'registration' => 'User registration settings',
