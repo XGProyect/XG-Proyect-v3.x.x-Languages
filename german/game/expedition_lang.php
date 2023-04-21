@@ -56,7 +56,7 @@ $lang = [
     'exp_found_object_2' => 'Unsere Flotte hat ein wertvolles Artefakt gefunden.<br><br>%s wurden dem Inventar hinzugefügt.<br><br>%s wurden dem Inventar hinzugefügt.', // ok
 
     // found nothing
-    'exp_nothing_1' => 'Ihre Expedition hat wunderschöne Bilder einer Supernova gemacht. Von der Expedition konnte nichts Neues gewonnen werden, aber zumindest besteht eine gute Chance, den Wettbewerb "Bestes Bild des Universums" in der nächsten Ausgabe des XG Proyect-Magazins zu gewinnen.', // ok
+    'exp_nothing_1' => 'Ihre Expedition hat wunderschöne Bilder einer Supernova gemacht. Von der Expedition konnte nichts Neues gewonnen werden, aber zumindest besteht eine gute Chance, den Wettbewerb "Bestes Bild des Universums" in der nächsten Ausgabe des kmpr.at Game-Magazins zu gewinnen.', // ok
     'exp_nothing_2' => 'Ein Lebewesen aus purer Energie kam an Bord und versetzte alle Expeditionsteilnehmer in eine seltsame Trance, sodass sie nur noch die hypnotisierenden Muster auf den Computerbildschirmen betrachteten. Als die meisten von ihnen schließlich aus dem hypnotischen Zustand erwachten, musste die Expeditionsmission abgebrochen werden, da sie viel zu wenig Deuterium hatten.', // ok
     'exp_nothing_3' => 'Nun, jetzt wissen wir, dass diese roten Anomalien der Klasse 5 nicht nur chaotische Auswirkungen auf die Navigationssysteme des Schiffes haben, sondern auch massive Halluzinationen bei der Besatzung hervorrufen. Die Expedition hat nichts zurückgebracht.', // ok
     'exp_nothing_4' => 'Das Flaggschiff der Expedition kollidierte mit einem fremden Schiff, als es ohne Vorwarnung in die Flotte sprang. Das fremde Schiff explodierte und der Schaden am Flaggschiff war erheblich. Die Expedition kann unter diesen Bedingungen nicht fortgesetzt werden, und die Flotte wird sich auf den Rückweg machen, sobald die erforderlichen Reparaturen durchgeführt wurden.', // ok
@@ -84,6 +84,6 @@ $lang = [
     // old lines
     'exp_blackholl_1' => 'Die Flotte wurde in ein schwarzes Loch gesaugt, wurde dabei teilweise zerstört.',
     'exp_blackholl_2' => 'Die Flotte wurde in ein schwarzes Loch gesaugt und komplett zerstört!',
-    'exp_found_goods' => 'Die Flotte hat ein unbemanntes Raumschiff entdeckt! <br> His scouts have recovered %s de %s, %s de %s, %s de %s y %s de %s.',
+    'exp_found_goods' => 'Die Flotte hat ein unbemanntes Raumschiff entdeckt! <br> Dabei wurden folgende Rohstoffe gefunden: %s %s, %s %s, %s %s und %s %s.',
     'exp_back_home' => 'Ihre Expedition kehrte in den Hangar zurück.',
 ];
