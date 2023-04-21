@@ -1,4 +1,5 @@
 
+
 <p align="center"
     <a href="https://www.xgproyect.org/" target="_blank">
         <img align="center" img src="https://xgproyect.org/wp-content/uploads/2019/10/xgp-new-logo-black.png" width="250px" title="XG Proyect" alt="xgp-logo">
@@ -7,38 +8,39 @@
     <strong>X</strong>treme <strong>G</strong>amez <strong>Proyect</strong>o
     <br>
     <strong>Open-source OGame Clon</strong>
-</p> 
+</p>
 
 About
 ====
 
-XG Proyect (XGP) is a web browser game based on the famous OGame. Our goal is to offer a package that is as similar as possible to the original.
+XG Proyect (XGP) is a web browser game based on the famous OGame. Our goal is to offer a package that is as similar as possible to the original, but keeping their original design.
 
-## How to install a new XG Proyect language?
+Official Website: https://www.xgproyect.org/
+Live Server: https://www.xgproyect.net/
 
-### Manually
-- Download and install XG Proyect language packs is easy. Go to the green button that says "Code" and "Download ZIP".  
-- Put the language folder right inside you XGP Languages folder.  
-- Insert into your DB table languages the folder name. With first letter uppercase. Example: English, Español, Türk, etc.-  
-- Go to your XGP Admin CP > Server settings > choose your just added language.-  
+## Requirements
 
-<strong>Important:</strong> <strong>official</strong> XGP languages are <strong>English and Spanish</strong>, any other language is not official and might be outdated. Depends on the language creator.  
+PHP 7.4 or greater
+MySQLi 5.7 or greater
+
+## How to get XG Proyect?
+
+This is the languages repository, for the main project head to the <a href="https://github.com/XGProyect/XG-Proyect-v3.x.x/issues" target="_blank">XG-Proyect-v3.x.x</a> repository.
+
 
 ## Who is using XG Proyect?
-
-We are happy to deliver this software giving others the possibility to have a good OGame Clon.  
-On the other hand, it's a pleasure to see people using XG Proyect.  
-<a href="https://github.com/XGProyect/XG-Proyect-v3.x.x/issues" target="_blank">Create a ticket</a> on GitHub so I can put your game logo here!  
+We are happy to deliver this software giving others the possibility to have a good OGame Clon.
+On the other hand, it's a pleasure to see people using XG Proyect.
+<a href="https://github.com/XGProyect/XG-Proyect-v3.x.x/issues" target="_blank">Create a ticket</a> on GitHub so I can put your game logo here!
 
 <img align="center" img src="https://xgproyect.org/wp-content/uploads/2019/10/xgp-new-logo-black.png" width="150px" title="XG Proyect" alt="xgp-logo">
 
 ## We support
-
 The following are tools or frameworks that we use to do our coding experience better!
 
 <p>
     <a href="https://codeigniter.com/" rel="nofollow">
-        <img src="https://codeigniter.com/assets/images/ci-logo.png" alt="CodeIgniter" width="75px">
+        <img src="https://codeigniter.com/favicon.ico" alt="CodeIgniter" width="75px">
     </a>
     <a href="https://getcomposer.org/" rel="nofollow">
         <img src="https://getcomposer.org/img/logo-composer-transparent2.png" alt="Composer" width="75px">
